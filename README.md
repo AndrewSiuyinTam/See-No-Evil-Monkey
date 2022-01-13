@@ -1,3 +1,3 @@
 # See-No-Evil-Monkey
 
-Click on Monkey and it will open up
+https://andrewsiuyintam.github.io/See-No-Evil-Monkey/
